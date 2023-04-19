@@ -9,5 +9,6 @@ int main(int argc, char const *argv[])
     {
         printf("%d,", i);
     }
+    printf("Todos esos son los enteros comprendidos entre %.f y %.f", n1, n2);
     return 0;
 }
